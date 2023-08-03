@@ -1,0 +1,9 @@
+# Step-1: Install the packages
+langchain # main LangChain Library
+openai # This is the official Python package for OpenAI's API, enabling you to work with the powerful language models provided by OpenAI, such as GPT-4
+chromadb==0.3.29 # Vector Database
+pytube
+youtube_transcript_api
+tiktoken
+streamlit # ==1.16.0 REMOVED
+requests_cache
